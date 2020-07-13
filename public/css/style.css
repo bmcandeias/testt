@@ -1,0 +1,22 @@
+body{
+    background: darkblue;
+}
+
+.fill{
+    background-image:url(/imagens/logo.jpg) ;
+    position: relative;
+    height: 150px;
+    width: 150xp;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.empty{
+    display: inline-block;
+    height: 160xp;
+    width: 160xp;
+    margin: 10xp;
+    border: 3xp red;
+    background-color: white;
+}

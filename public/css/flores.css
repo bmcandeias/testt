@@ -1,0 +1,69 @@
+.divflex
+{
+  display: flex;
+}
+.parallax {
+    /* The image used */
+    background-image: url("/imagens/Flores1.jpg");
+  
+    /* Set a specific height */
+    min-height: 700px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax2 {
+    /* The image used */
+    background-image: url("/imagens/Flores2.jpg");
+  
+    /* Set a specific height */
+    min-height: 700px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax3 {
+    /* The image used */
+    background-image: url("/imagens/Flores3.jpg");
+  
+    /* Set a specific height */
+    min-height: 700px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.fit
+{
+  min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+}
+.jmfit
+{
+  background-position: center;
+  height: auto;
+  width: auto;
+  list-style-type:none;
+}
+.cards
+{
+  width: 2000px;
+  height: auto;
+}
+.imagefix
+{
+  height: 2000xp;
+  width: auto;
+}
